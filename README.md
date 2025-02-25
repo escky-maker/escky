@@ -9,7 +9,6 @@ Software Engineering is all about:
 🔹 Writing instructions (called code) for computers.
 🔹 Building apps, games, and websites that make our lives easier.
 🔹 Solving real-world problems through technology.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Structured Programming (1960s)
 Back in the early days of computing, code was often a chaotic mess—think "spaghetti code" with tangled logic and endless GOTO statements. Then came structured programming, championed by folks like Edsger Dijkstra, who argued for clarity and discipline in his 1968 letter "Go To Statement Considered Harmful." This milestone introduced concepts like loops, conditionals, and subroutines, making programs easier to understand, debug, and scale. It laid the foundation for modern coding practices, shifting software development from an art into something more systematic.
@@ -19,7 +18,6 @@ The Agile Manifesto (2001)
 By the late 1990s, traditional "waterfall" development—where projects moved linearly through rigid phases—was buckling under the weight of rapid tech change. In 2001, a group of 17 developers met in Utah and hammered out the Agile Manifesto, flipping the script with values like "individuals and interactions over processes and tools" and "working software over comprehensive documentation." Agile introduced iterative development, sprints, and constant feedback, aligning software engineering with the fast-paced, user-driven world we live in now. It’s been a game-changer for how teams collaborate and deliver.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
 Planning
 This is where it all starts—figuring out what’s needed. Teams define the project’s goals, scope, budget, and timeline, often assessing feasibility and risks. It’s about answering, “What are we building, and can we pull it off?”
 Requirements Analysis
